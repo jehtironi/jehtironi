@@ -1,15 +1,6 @@
 - 👋 Hi, I’m @jehtironi!
-
-2
-
 - 👀 I’m interested in programing (☕);
-
-3
-
 - 🌱 I’m currently learning ☕ Java, 🐍 python, c++;
-
-4
-
 - 📫 How to reach me jehtironi@gmail.com
 
 <!--🐍 
